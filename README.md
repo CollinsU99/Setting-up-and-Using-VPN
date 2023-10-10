@@ -3,6 +3,7 @@
 </p>
 
 <h1>Observing the Effects of a VPN on IP Addressing</h1>
+
 In this tutorial, we will investigate the effects of a VPN (virtual private network), such as Proton VPN, on IP addresses, geographical locations, and web browsing behavior.
  
 <h2>Environments and Technologies Used</h2>
@@ -37,7 +38,7 @@ On your web browser, go to https://nordvpn.com/what-is-my-ip/deal-site/ and grab
 Note down your current IP address and the city.
 
 <p align="center">
-<img src="https://i.imgur.com/XR18PLe.png" height="80%" width="80%" alt="img"/>
+<img src="https://i.imgur.com/DnFRTsK.png" height="80%" width="80%" alt="img"/>
 </p>
 
 Go to https://portal.azure.com/ and search "virtual machine" in the search bar, and click "Virtual machines".
