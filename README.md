@@ -22,9 +22,9 @@ In this tutorial, we will investigate the effects of a VPN (virtual private netw
 - Use https://nordvpn.com/what-is-my-ip/deal-site/ to grab your current IP address
 - Create a Virtual Machine in Microsoft Azure
 - Log into the virtual machine using Remote Desktop Connection
-- Use whatsmyipaddress.com to grab your VM IP address
-- Download Proton VPN then connect to any VPN
-- Use whatsmyipaddress.com to grab your new Proton VPN IP address
+- Use https://nordvpn.com/what-is-my-ip/deal-site/ to grab your VM IP address
+- Download Proton VPN, then connect to any VPN
+- Use https://nordvpn.com/what-is-my-ip/deal-site/ to grab your new Proton VPN IP address
 
 
 <h2>Actions and Observations</h2>
@@ -163,20 +163,29 @@ The Proton installation window will pop up. Click 'Ok" > "Next" > "Next" > "Next
 
 Log in using your username and password.
 
+<p align="center">
+<img src="https://i.imgur.com/ZFFNcOj.png" height="80%" width="80%" alt="img"/>
+</p>
 
+Within your Proton VPN, click "Quick Connect".
 
+<p align="center">
+<img src="https://i.imgur.com/ZFFNcOj.png" height="80%" width="80%" alt="img"/>
+</p>
 
+After clicking the "Quick Connect" button, I was connected to a Proton VPN server in the Netherlands. This means that all of my web browsing traffic on the VPN will be routed through the Proton VPN server
 
+NOTE: You might be connected to a different location by the time you are doing this lab.
 
+<p align="center">
+<img src="https://i.imgur.com/Mk7HLI4.png" height="80%" width="80%" alt="img"/>
+</p>
 
+Go back to https://nordvpn.com/what-is-my-ip/deal-site/ or refresh the web page if you still have it opened.
 
+As shown in the image above, you can see our IP address changed and our location changed from South Africa to the Netherlands.
 
-
-
-
-
-
-
+In conclusion, when we connected to our VM via RDP (Remote Desktop), we were actually connecting to a VM located in South Africa. This means that our traffic appeared to be coming from South Africa, even though we were physically located elsewhere. In this sense, it was as if we were using a VPN.
 
 
 
