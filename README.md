@@ -181,7 +181,7 @@ NOTE: You might be connected to a different location by the time you are doing t
 <img src="https://i.imgur.com/Mk7HLI4.png" height="80%" width="80%" alt="img"/>
 </p>
 
-Go back to https://nordvpn.com/what-is-my-ip/deal-site/ or refresh the web page if you still have it opened.
+Go back to https://nordvpn.com/what-is-my-ip/deal-site/ or refresh the web page if you still have it open.
 
 As shown in the image above, you can see our IP address changed and our location changed from South Africa to the Netherlands.
 
