@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://i.imgur.com/Wy1FSRk.png" height="80%" width="80%" alt="img"/>
+<img src="https://i.imgur.com/Wy1FSRk.png" alt="img"/>
 </p>
 
 <h1>Observing the Effects of a VPN on IP Addressing</h1>
@@ -110,7 +110,7 @@ Go to https://nordvpn.com/what-is-my-ip/deal-site/ and click Enter on your keybo
 <img src="https://i.imgur.com/9bJLeTa.png" height="80%" width="80%" alt="img"/>
 </p>
 
-Remember, when we were creating our VM in Azure, we selected "(Africa) South North Africa" as our location.
+Remember, when we were creating our VM in Azure, we selected "(Africa) South Africa North" as our location.
 
 As you can see from the image above, our location is South Africa. Note the IP address.
 
@@ -118,7 +118,7 @@ As you can see from the image above, our location is South Africa. Note the IP a
 <img src="https://i.imgur.com/5GVoheM.png" height="80%" width="80%" alt="img"/>
 </p>
 
-Next, we create a free Proton VPN account. 
+Next, we will create a free Proton VPN account. 
 
 On your local computer web browser (not your VM's browser), search for "Proton vpn sign up", and click "Proton NPN: Sign-up".
 
