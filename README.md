@@ -3,7 +3,6 @@
 </p>
 
 <h1>Observing the Effects of a VPN on IP Addressing</h1>
-
 In this tutorial, we will investigate the effects of a VPN (virtual private network), such as Proton VPN, on IP addresses, geographical locations, and web browsing behavior.
  
 <h2>Environments and Technologies Used</h2>
